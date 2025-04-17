@@ -1,6 +1,3 @@
-# Weather-forecast-
-A weather forecast webapp⛈️🌦️⛅🌩️
-
 # 🌦️ Weather Forecast App
 
 A simple and clean weather forecast web application that allows you to search any city and get real-time weather details like temperature, humidity, and wind speed. Built with **HTML, CSS, and JavaScript** using the OpenWeatherMap API.
