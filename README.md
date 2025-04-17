@@ -38,9 +38,3 @@ A simple and clean weather forecast web application that allows you to search an
 - OpenWeatherMap API
 
 ---
-
-## 📦 Setup
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/n-i-3/Weather-forecast.git
