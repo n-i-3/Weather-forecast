@@ -8,8 +8,6 @@ A simple and clean weather forecast web application that allows you to search an
 
 👉 [Click here to view the live site!](https://n-i-3.github.io/Weather-forecast/)
 
-![Live Demo](https://n-i-3.github.io/Weather-forecast/)
-
 ---
 
 ## 🖼️ Preview
