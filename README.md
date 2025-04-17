@@ -12,7 +12,7 @@ A simple and clean weather forecast web application that allows you to search an
 
 ## 🖼️ Preview
 
-![App Screenshot](https://your-screenshot-link.png)
+![App Screenshot](./images/preview.png)
 
 ---
 
